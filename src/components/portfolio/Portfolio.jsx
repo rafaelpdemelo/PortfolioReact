@@ -14,7 +14,7 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "Challeng TODO - Rocketseat",
+    title: "Challenge TODO - Rocketseat",
     github: "https://github.com/rafaelpdemelo/challenge-01-todolist",
   },
   {
